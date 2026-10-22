@@ -1,0 +1,6 @@
+{
+  "name": "Activos con Cuatro Patas - ERP Ganadero Pozo del Carril",
+  "description": "Sistema de gestión contable y productiva para la actividad ganadera bovina del Establecimiento Pozo del Carril, con trazabilidad dual, costeo por subunidades e integración con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

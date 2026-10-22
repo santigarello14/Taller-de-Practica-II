@@ -1,0 +1,58 @@
+[
+  {
+    "id_usuario": 1,
+    "usuario": "admin",
+    "contrasena": "admin2026",
+    "nombre": "Administrador Pozo del Carril",
+    "rol": "Administrador",
+    "activo": true
+  },
+  {
+    "id_usuario": 2,
+    "usuario": "operador",
+    "contrasena": "campo2026",
+    "nombre": "Operador de Campo y Balanza",
+    "rol": "Operador",
+    "activo": true
+  },
+  {
+    "id_usuario": 3,
+    "usuario": "auditor",
+    "contrasena": "auditor2026",
+    "nombre": "Auditor Contable y Control de Gestión",
+    "rol": "Consulta",
+    "activo": true
+  },
+  {
+    "id_usuario": 4,
+    "usuario": "santigare14",
+    "contrasena": "1234",
+    "nombre": "Santiago Garello",
+    "rol": "Administrador",
+    "activo": true
+  },
+  {
+    "id_usuario": 5,
+    "usuario": "Juan Gallardo",
+    "contrasena": "1111",
+    "nombre": "Juan Crack Gallardo",
+    "rol": "Administrador",
+    "activo": true
+  },
+  {
+    "id_usuario": 6,
+    "usuario": "santiolmos4",
+    "contrasena": "atenas123",
+    "nombre": "Santiago Olmos",
+    "rol": "Administrador",
+    "activo": true
+  },
+  {
+    "id_usuario": 7,
+    "usuario": "agjuli",
+    "contrasena": "1601",
+    "nombre": "Julieta Guadalupe Aguilera",
+    "rol": "Administrador",
+    "activo": true
+  }
+]
